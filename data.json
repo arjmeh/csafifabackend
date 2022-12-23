@@ -1,0 +1,37 @@
+{
+   "arjun": {
+      "usernamevalue": "arjun",
+      "passwordvalue": "arjun",
+      "startrating": 97
+   },
+   "calvin": {
+      "usernamevalue": "calvin",
+      "passwordvalue": "calvin",
+      "startrating": 70
+   },
+   "brayden": {
+      "usernamevalue": "brayden",
+      "passwordvalue": "brayden",
+      "startrating": 67
+   },
+   "siri": {
+      "usernamevalue": "siri",
+      "passwordvalue": "siri",
+      "startrating": 91
+   },
+   "tony": {
+      "usernamevalue": "tony",
+      "passwordvalue": "tony",
+      "startrating": 78
+   },
+   "sebas": {
+      "usernamevalue": "sebas",
+      "passwordvalue": "sebas",
+      "startrating": 60
+   },
+   "messi": {
+      "usernamevalue": "messi",
+      "passwordvalue": "messi",
+      "startrating": 60
+   }
+}
